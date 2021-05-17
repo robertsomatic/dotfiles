@@ -1,7 +1,8 @@
 set number
-syntax on
+syntax on 
 colorscheme industry
 set tabstop=4
 set autoindent
 set ruler
+set background=light
 
